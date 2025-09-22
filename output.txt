@@ -1,0 +1,26 @@
+Invoice for Customer: CUST001
+-----------------------------
+API Calls: 9500 calls -> $95.00
+Storage: 40 GB -> $10.00
+Compute Time: 100 minutes -> $5.00
+-----------------------------
+Total Due: $110.00
+
+Invoice for Customer: CUST002
+-----------------------------
+API Calls: 12000 calls -> $96.00
+Storage: 60.5 GB -> $15.13
+Compute Time: 240 minutes -> $12.00
+-----------------------------
+Total Due: $123.13
+
+Invoice for Customer: CUST003
+-----------------------------
+API Calls: 5000 calls -> $50.00
+Storage: 20 GB -> $5.00
+Compute Time: 80 minutes -> $4.00
+-----------------------------
+Total Due: $59.00
+
+Skipped invalid entry: Missing or invalid fields for CustomerId: CUST_BAD1
+Skipped invalid entry: Missing or invalid fields for CustomerId: CUST_BAD2
